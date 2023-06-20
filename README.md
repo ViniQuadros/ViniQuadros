@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniQuadros
 - 👀 I’m interested in building a game development career
-- 🌱 I’m currently learning C++, HTML and CSS
+- 🌱 I’m currently learning C++ and Unreal Engine.
 - 📫 That's my email: viniciusquadross@hotmail.com
 
 <!---
