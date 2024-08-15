@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ViniQuadros
-- 👀 I’m interested in building a game development career
-- 🌱 I’m currently learning C++ and Unreal Engine.
-- 📫 That's my email: viniciusquadross@hotmail.com
+- Hi, I’m @ViniQuadros
+- I’m interested in building a developer carreer
+- I’m currently learning C++ and Java.
+- That's my email: viniciusquadross@hotmail.com
 
 <!---
 ViniQuadros/ViniQuadros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
