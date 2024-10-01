@@ -39,9 +39,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal"  alt="Unreal" width="60" height="60"/>&nbsp;
   </div>
   <br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniQuadros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
 
 <!---
