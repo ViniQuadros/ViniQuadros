@@ -18,9 +18,9 @@
   
 - 📖 I am currently studying Computer Science
 
-- 🔧 I mainly use C++ and Java, but I am also familiar with other programming languages
+- 🔧 I mainly use Java and Python, but I am also familiar with other programming languages
 
-- 🎮 I am also into game development using Unreal Engine.
+- 🎮 I am also into game development using Unreal Engine and Unity 2D. 
   
 - 📫 E-mail for contact: viniciusquadross@hotmail.com
   
