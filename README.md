@@ -14,13 +14,13 @@
 <div id="aboutme" align="left">
   :man_technologist: About Me : <br>
   
-  I am a brazilian developer 
+  I am a brazilian game developer 
   
-- 📖 I am currently studying Computer Science
+- 📖 I am currently studying Computer Science.
 
-- 🔧 I mainly use Java and Python, but I am also familiar with other programming languages
+- 🎮 I am into game development using Unreal Engine and Unity 2D.
 
-- 🎮 I am also into game development using Unreal Engine and Unity 2D. 
+- I mainly use C++ and C#, but I am also familiar with Java, Python and SQL.
   
 - 📫 E-mail for contact: viniciusquadross@hotmail.com
   
@@ -30,13 +30,12 @@
   💻 Languages and Tools : <br>
 
   <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal"  alt="Unreal" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"  alt="Unity" width="60" height="60"/>&nbsp;
   </div>
   <br>
 </div>
